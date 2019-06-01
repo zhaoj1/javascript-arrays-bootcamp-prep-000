@@ -3,4 +3,6 @@ var string = "foo"
 function addElementToBeginningOfArray(chocolateBars,string){ 
   return [string,...chocolateBars]
 }
-function 
+function destructivelyAddElementToBeginningOfArray(chocolateBars,string){
+  return 
+}
