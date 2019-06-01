@@ -15,3 +15,4 @@ function destructivelyAddElementToEndOfArray(chocolateBars,string){chocolateBars
 function accessElementInArray(array,index){
   return array[index]
 }
+function destructivelyRemoveElementFromBeginningOfArray(chocolateBars,)
